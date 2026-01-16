@@ -7,6 +7,10 @@ body{
     background-color: black;
     color: #fff;
 }
+.information a {
+    color: #fff;
+}
+
 .main{
     margin: 1rem;
     padding: 1rem;
